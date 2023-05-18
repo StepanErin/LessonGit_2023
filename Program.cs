@@ -11,6 +11,7 @@ namespace LessonGit_2023
         static void Main(string[] args)
         {
             Console.WriteLine("C0");
+            Console.WriteLine("C1");
             Console.ReadKey();
         }
     }
