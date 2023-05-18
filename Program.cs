@@ -14,5 +14,9 @@ namespace LessonGit_2023
             Console.WriteLine("C1");
             Console.ReadKey();
         }
+        static public void CW()
+        {
+
+        }
     }
 }
