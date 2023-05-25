@@ -13,6 +13,7 @@ namespace LessonGit_2023
             Console.WriteLine("C0");
             Console.WriteLine("C1");
             Console.WriteLine("a0");
+            Console.WriteLine("a2");
             Console.ReadKey();
         }
     }
